@@ -83,4 +83,14 @@
     <string name="status_bar_lyric_options_title">选项</string>
     <string name="disguise_props_for_music_app_title">对音乐应用伪装设备</string>
     <string name="disguise_props_for_music_app_summary">在一些音乐应用中伪装设备以支持状态栏歌词。更改此开关后，您必须重新启动相关应用才能使更改生效。</string>
+    <string name="volume_steps_fragment_title">音量的级数</string>
+    <string name="volume_steps_summary">自定义你的音量级数</string>
+    <string name="volume_steps_alarm_title">闹钟的音量级数</string>
+    <string name="volume_steps_dtmf_title">DTMF的音量级数</string>
+    <string name="volume_steps_music_title">媒体的音量级数</string>
+    <string name="volume_steps_notification_title">通知的音量级数</string>
+    <string name="volume_steps_ring_title">铃声的音量级数</string>
+    <string name="volume_steps_system_title">系统的音量级数</string>
+    <string name="volume_steps_voice_call_title">语音通话的音量级数</string>
+    <string name="volume_steps_reset">重置音量级数</string>
 </resources>
