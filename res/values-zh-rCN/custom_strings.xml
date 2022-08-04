@@ -76,4 +76,8 @@
     <string name="face_unlock_method_title">允许在锁定屏幕使用人脸识别解锁</string>
     <string name="face_unlock_method_default">当屏幕开启时</string>
     <string name="face_unlock_method_swipe">在锁定屏幕上滑动时</string>
+    <string name="status_bar_lyric_title">状态栏歌词</string>
+    <string name="status_bar_lyric_summary">状态栏歌词（需要应用支持）</string>
+    <string name="status_bar_show_lyric_title">启用状态栏歌词</string>
+    <string name="status_bar_show_lyric_summary">感谢Shelling和AmeChan的贡献~</string>
 </resources>
