@@ -93,4 +93,8 @@
     <string name="volume_steps_system_title">系统的音量级数</string>
     <string name="volume_steps_voice_call_title">语音通话的音量级数</string>
     <string name="volume_steps_reset">重置音量级数</string>
+    <string name="app_volume">应用音量</string>
+    <string name="app_volume_title">每个应用程序的音量控制</string>
+    <string name="app_volume_summary">允许为每个应用设置不同的音量级别</string>
+
 </resources>
