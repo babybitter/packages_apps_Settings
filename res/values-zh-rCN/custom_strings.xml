@@ -96,5 +96,11 @@
     <string name="app_volume">应用音量</string>
     <string name="app_volume_title">每个应用程序的音量控制</string>
     <string name="app_volume_summary">允许为每个应用设置不同的音量级别</string>
+    <string name="game_space_title">游戏空间</string>
+    <string name="game_space_summary">增强你的游戏体验~</string>
+    <string name="reticker_title">reTicker</string>
+    <string name="reticker_summary">用经过重新设计的精简且侵入性较小的版本替换平视通知</string>
+    <string name="reticker_colored_title">使用应用彩色背景</string>
+    <string name="reticker_colored_summary">使用通知应用主颜色替换 reTicker 背景颜色</string>
 
 </resources>
